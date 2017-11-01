@@ -5,4 +5,10 @@ body {
 
 h1 {
 color: orange;
+margin: 0.5em;
+}
+
+p{
+    color: greenyellow;
+    margin: 2em;
 }
